@@ -1,0 +1,49 @@
+{
+  "batch": "application-button-overrides-20261114",
+  "source_commit": "dea4cdd5eb500a6f7c7af3465865f9cb09d04fa7",
+  "build": "2.0.0 (320), public debug app, local ad-hoc",
+  "window": "1067x760",
+  "generator": "SettingsScreenshotRenderer",
+  "items": [
+    {
+      "file": "entry-zh-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "sha256": "1cf25b03743d409875bd278f012a42800c545a44970e4550f2497d14e43fa0b3",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/entry-zh-light-1067x760.png"
+    },
+    {
+      "file": "page-zh-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "sha256": "1d7e5ac9c8bf61faf3334a8327420b0a2e19091203d15bc81bc383d42294232b",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/page-zh-light-1067x760.png"
+    },
+    {
+      "file": "editor-zh-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "sha256": "dd4aca10bed4cc55238776077e6b518bddcc7149b7cc303dba4a3c303b96de39",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/editor-zh-light-1067x760.png"
+    },
+    {
+      "file": "clear-zh-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "sha256": "ef6acbc53ee053df435640d8fd2571ba8c51020b346f9ff12c0b356d0a6c63af",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/clear-zh-light-1067x760.png"
+    },
+    {
+      "file": "editor-en-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "sha256": "36d301d41661e828a7fd1f194632c8bc37dd61132f1548dbe7f176cf9bcaf175",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/editor-en-dark-1067x760.png"
+    }
+  ]
+}
