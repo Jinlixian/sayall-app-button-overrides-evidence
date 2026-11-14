@@ -1,6 +1,6 @@
 {
   "batch": "application-button-overrides-20261114",
-  "source_commit": "dea4cdd5eb500a6f7c7af3465865f9cb09d04fa7",
+  "source_commit": "df3ae7ff21397af5d9d668330280b0674f1aee9a",
   "build": "2.0.0 (320), public local build via scripts/build-mac-app.sh, ad-hoc",
   "window": "1067x760",
   "generator": "SettingsScreenshotRenderer",
