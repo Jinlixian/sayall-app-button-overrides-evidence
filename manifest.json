@@ -1,7 +1,7 @@
 {
   "batch": "application-button-overrides-20261114",
   "source_commit": "dea4cdd5eb500a6f7c7af3465865f9cb09d04fa7",
-  "build": "2.0.0 (320), public debug app, local ad-hoc",
+  "build": "2.0.0 (320), public local build via scripts/build-mac-app.sh, ad-hoc",
   "window": "1067x760",
   "generator": "SettingsScreenshotRenderer",
   "items": [
@@ -10,40 +10,160 @@
       "format": "png",
       "width": 1067,
       "height": 760,
+      "language": "zh-Hans",
+      "appearance": "light",
       "sha256": "1cf25b03743d409875bd278f012a42800c545a44970e4550f2497d14e43fa0b3",
       "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/entry-zh-light-1067x760.png"
+    },
+    {
+      "file": "entry-zh-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "zh-Hans",
+      "appearance": "dark",
+      "sha256": "dd41e7ba9106114e390eaacb2f6046bedf83b372480298352ebe1957d35ad4bd",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/entry-zh-dark-1067x760.png"
+    },
+    {
+      "file": "entry-en-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "light",
+      "sha256": "0d1e07b1b12ccfec69accd584ea583ed140c66d9343335c1cbf3584cfa456c94",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/entry-en-light-1067x760.png"
+    },
+    {
+      "file": "entry-en-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "dark",
+      "sha256": "7ca9ae16d55de9cb5b632022f1d2869682b73dc81e842e8bc66913b9ad8478e1",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/entry-en-dark-1067x760.png"
     },
     {
       "file": "page-zh-light-1067x760.png",
       "format": "png",
       "width": 1067,
       "height": 760,
+      "language": "zh-Hans",
+      "appearance": "light",
       "sha256": "1d7e5ac9c8bf61faf3334a8327420b0a2e19091203d15bc81bc383d42294232b",
       "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/page-zh-light-1067x760.png"
+    },
+    {
+      "file": "page-zh-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "zh-Hans",
+      "appearance": "dark",
+      "sha256": "f4f975915f62f2886305382d4affe426ccd3c6aafbda4c1264480bb1ccef6e50",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/page-zh-dark-1067x760.png"
+    },
+    {
+      "file": "page-en-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "light",
+      "sha256": "c8fa1e8dc9f6c8815a0f11d17402a88eec6becb09a8288cd0c2916bce6be83c0",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/page-en-light-1067x760.png"
+    },
+    {
+      "file": "page-en-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "dark",
+      "sha256": "1862800b13ce638eda5f24e1f3255507f8ac58bbd2aee6260d66875a8e7e1346",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/page-en-dark-1067x760.png"
     },
     {
       "file": "editor-zh-light-1067x760.png",
       "format": "png",
       "width": 1067,
       "height": 760,
+      "language": "zh-Hans",
+      "appearance": "light",
       "sha256": "dd4aca10bed4cc55238776077e6b518bddcc7149b7cc303dba4a3c303b96de39",
       "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/editor-zh-light-1067x760.png"
     },
     {
-      "file": "clear-zh-light-1067x760.png",
+      "file": "editor-zh-dark-1067x760.png",
       "format": "png",
       "width": 1067,
       "height": 760,
-      "sha256": "ef6acbc53ee053df435640d8fd2571ba8c51020b346f9ff12c0b356d0a6c63af",
-      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/clear-zh-light-1067x760.png"
+      "language": "zh-Hans",
+      "appearance": "dark",
+      "sha256": "9a9a3b8702ab3b50dcc4fb21eacf9b0468d5abb7b892a273d5f474818d6c67c6",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/editor-zh-dark-1067x760.png"
+    },
+    {
+      "file": "editor-en-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "light",
+      "sha256": "f77d6f2a3449e32a52d1dfb32ec5ee9fa29db4778dca4c8ea359832f28c063ca",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/editor-en-light-1067x760.png"
     },
     {
       "file": "editor-en-dark-1067x760.png",
       "format": "png",
       "width": 1067,
       "height": 760,
+      "language": "en",
+      "appearance": "dark",
       "sha256": "36d301d41661e828a7fd1f194632c8bc37dd61132f1548dbe7f176cf9bcaf175",
       "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/editor-en-dark-1067x760.png"
+    },
+    {
+      "file": "clear-zh-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "zh-Hans",
+      "appearance": "light",
+      "sha256": "ef6acbc53ee053df435640d8fd2571ba8c51020b346f9ff12c0b356d0a6c63af",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/clear-zh-light-1067x760.png"
+    },
+    {
+      "file": "clear-zh-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "zh-Hans",
+      "appearance": "dark",
+      "sha256": "16ed76fcd09eba7d9368e4bc3533290abd4b4a7557d900f52283e643f5964a0f",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/clear-zh-dark-1067x760.png"
+    },
+    {
+      "file": "clear-en-light-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "light",
+      "sha256": "a4fdb73d400bf8ed9b9698c8d1cb3ad07c845a490c1d29ca108772b3033fc0d7",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/clear-en-light-1067x760.png"
+    },
+    {
+      "file": "clear-en-dark-1067x760.png",
+      "format": "png",
+      "width": 1067,
+      "height": 760,
+      "language": "en",
+      "appearance": "dark",
+      "sha256": "0b71f1a67114b41f20beae4acaef5c257ba84ce33bf28cf6888febc4b19a2728",
+      "url": "https://raw.githubusercontent.com/Jinlixian/sayall-app-button-overrides-evidence/main/clear-en-dark-1067x760.png"
     }
   ]
 }
